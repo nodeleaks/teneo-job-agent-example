@@ -1,7 +1,7 @@
 # 🤖 Job Market Intelligence Agent (Made with Claude)
 ### Powered by Teneo Protocol
 
-A production-ready AI agent for the [Teneo Protocol](https://teneo-protocol.ai) network that provides real-time job market intelligence, salary data, skills analysis, and CV matching.
+AI agent for the [Teneo Protocol](https://teneo-protocol.ai) network that provides job market intelligence, salary data, skills analysis, and CV matching.
 
 ---
 
